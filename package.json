@@ -1,0 +1,23 @@
+{
+    "name": "ateliernode",
+    "version": "1.0.0",
+    "description": "atelier node",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AnnaMarandola/quete-node.git"
+    },
+    "author": "Anna",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AnnaMarandola/quete-node/issues"
+    },
+    "homepage": "https://github.com/AnnaMarandola/quete-node#readme",
+    "dependencies": {
+        "chalk": "^2.4.2"
+    }
+}
